@@ -1,7 +1,6 @@
 import webbrowser
 import os
 import time
-import keyboard
 def Clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 def bot2():

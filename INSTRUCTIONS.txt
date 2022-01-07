@@ -1,0 +1,11 @@
+This is instructions on how to use this
+
+Step 1: goto ( https://opera.com/gx ) and download and set this to your main browser in defult apps
+
+Step 2: change <url> to the url of the youtube vidio you want
+
+Step 3: make sure you have python 3.10 and all the required pips installed you can see them down here |
+                                                                                                      V
+pip install webbrowser
+pip install os
+pip install time

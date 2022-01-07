@@ -9,7 +9,7 @@ def bot2():
     time.sleep(10)
     os.system("taskkill /im opera.exe /f")
 
-View = 'https://youtu.be/bqop2QCxIyU'
+View = '<URL GOES HERE>'
 x = 0
 while True:
     bot2()
